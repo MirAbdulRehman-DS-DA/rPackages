@@ -1,0 +1,14 @@
+Package: testPackage
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Mir Abdul Rehman <abdmi452@student.liu.se>
+Description: This package implements the Euclidean algorithm for GCD and Dijkstra's algorithm for shortest path.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

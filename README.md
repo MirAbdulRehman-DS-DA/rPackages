@@ -7,6 +7,8 @@
 
 [![R-CMD-check](https://github.com/MirAbdulRehman-DS-DA/github-portfolio/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/MirAbdulRehman-DS-DA/github-portfolio/actions/workflows/R-CMD-check.yaml)
 [![R-CMD-check](https://github.com/MirAbdulRehman-DS-DA/github-portfolio/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/MirAbdulRehman-DS-DA/github-portfolio/actions/workflows/R-CMD-check.yaml)
+[![R-CMD-check](https://github.com/MirAbdulRehman-DS-DA/rPackages/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/MirAbdulRehman-DS-DA/rPackages/actions/workflows/R-CMD-check.yaml)
+[![check-standard](https://github.com/MirAbdulRehman-DS-DA/rPackages/actions/workflows/check-standard.yaml/badge.svg)](https://github.com/MirAbdulRehman-DS-DA/rPackages/actions/workflows/check-standard.yaml)
 <!-- badges: end -->
 
 The goal of testPackage is to …
